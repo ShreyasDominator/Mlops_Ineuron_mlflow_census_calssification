@@ -11,3 +11,6 @@ COLUMNS:
     hours-per-week: int64,
     country: int32,
     salary: int32 
+
+TARGET_COLUMN:
+  name: salary
