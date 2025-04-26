@@ -37,7 +37,7 @@ def predict_api():
 #     if request.method == 'POST':
 #         # Get data from the form
 #         age = request.form.get('age')
-#         fnlwgt = request.form.get('fnlwgt')
+#         fnlwgt = request.form.get('fnlwgt')s
 #         country = request.form.get('country')
 #         workclass = request.form.get('workclass')
 #         education = request.form.get('education')
