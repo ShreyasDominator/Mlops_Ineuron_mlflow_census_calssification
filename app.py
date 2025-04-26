@@ -127,7 +127,7 @@ def predict_datapoint():
         
         out=''
         if prediction==1:
-            out='Salary Greater than 50'
+            out='Salary Greater than 50..'
         else:
             out='Salary lesser than 50'
 
