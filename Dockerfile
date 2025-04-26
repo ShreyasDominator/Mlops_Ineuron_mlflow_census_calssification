@@ -1,4 +1,5 @@
-FROM python:3.11.1-slim-bookworm
+FROM 3.12-slim-bookworm	
+
 
 RUN apt update -y && apt install awscli -y
 WORKDIR /app
